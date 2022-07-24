@@ -348,6 +348,8 @@ visit: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 ![img](https://komarev.com/ghpvc/?username=peterroe&&style=flat-square)
 
+![img](https://profile-counter.glitch.me/peterroe/count.svg)
+
 **Template:**
 
 visit: https://count.getloli.com/
@@ -378,6 +380,19 @@ visit: https://github.com/antonkomarev/github-profile-views-counter
 
 ```
 ![img](https://komarev.com/ghpvc/?username=peterroe&&style=flat-square)
+```
+
+</td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://profile-counter.glitch.me/peterroe/count.svg)
+
+</td><td width="600px"><br>
+
+```
+![img](https://profile-counter.glitch.me/peterroe/count.svg)
 ```
 
 </td></tr>
