@@ -1,10 +1,8 @@
-# Awesome README
+## Awesome README
 
 > Gathering all the awesome things in README.md
 
 ## Badge
-
-### shields
 
 **Case:**
 
@@ -21,27 +19,216 @@
 
 **Template:**
 
-`https://img.shields.io/badge/{logoName}-${bgColor}?style=${style}&logo=${logoName}&logoColor=${logoColor}`
+`https://img.shields.io/badge/{name}-${bgColor}?style=${style}&logo=${logoName}&logoColor=${logoColor}&labelColor=${logoColor}`
 
-<table><tr><td width="400px" valign="top">
+<table>
+<tr><td width="400px">
 
 ### Demo
 
-![Vue.js](https://img.shields.io/badge/Vue.js-red?style=flat-square&logo=Vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
 </td><td width="600px"><br>
 
-### MarkDown
-
 ```MarkDown
-![Vue.js](https://img.shields.io/badge/Vue.js-red?style=flat-square&logo=Vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ```
 
-</td></tr></table>
+</td></tr>
+<!-- split line -->
+<tr><td width="400px">
+
+### param
+  
+name
+
+</td><td width="600px"><br>
+
+Custom name
+
+</td></tr>
+<!-- split line -->
+<tr><td width="400px">
+
+### param
+  
+bgColor
+logoColor
+labelColor
+
+</td><td width="600px"><br>
+
+Hex color or ui color `eg: ff02fA、red、blue`
+
+</td></tr>
+<!-- split line -->
+<tr><td width="400px">
+
+### param
+  
+style
+
+</td><td width="600px"><br>
+
+* plastic
+* flat-square
+* for-the-badge
+* social
+
+</td></tr>
+<!-- split line -->
+<tr><td width="400px">
+
+### param
+  
+logoName
+
+</td><td width="600px"><br>
+
+All **effective value** are [here](https://simpleicons.org/)
+
+</td></tr>
+</table>
+
+
+
+
+
+## Top language
+
+**Case:**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true&theme=synthwave" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true&theme=highcontrast"/>  
+</p>
+
+**Template:**
+
+visit: https://github.com/anuraghazra/github-readme-stats
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true)
+
+</td><td width="600px"><br>
 
 ```
-https://img.shields.io/badge/{logoName}-${bgColor}?style=${style}&logo=${logoName}&logoColor=${logoColor}
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe)
 ```
 
+</td></tr>
+</table>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-red?style=flat-square&logo=Vue.js&logoColor=white)
+
+## Stats
+
+**Case:**
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterroe&count_private=true&show_icons=true&hide_title=true&theme=gruvbox"/>
+</p>
+
+**Template:**
+
+visit: https://github.com/anuraghazra/github-readme-stats
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-readme-stats.vercel.app/api?username=peterroe)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-readme-stats.vercel.app/api?username=peterroe)
+```
+
+</td></tr>
+</table>
+
+
+
+
+
+## Contribution Gragh
+
+**Case:**
+
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=peterroe&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true"/>
+</p>
+
+**Template:**
+
+visit: https://github.com/Ashutosh00710/github-readme-activity-graph
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://activity-graph.herokuapp.com/graph?username=peterroe&theme=github)
+
+</td><td width="600px"><br>
+
+```
+![img](https://activity-graph.herokuapp.com/graph?username=peterroe&theme=github)
+```
+
+</td></tr>
+</table>
+
+
+
+
+## Profile views
+
+**Case:**
+
+<p>
+  <img src="https://count.getloli.com/get/@peterroe" aligh="left"/>
+  <img src="https://count.getloli.com/get/@peterroe?theme=asoul" />
+</p>
+
+![img](https://komarev.com/ghpvc/?username=peterroe&&style=flat-square)
+
+**Template:**
+
+visit: https://count.getloli.com/
+
+visit: https://github.com/antonkomarev/github-profile-views-counter
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://count.getloli.com/get/@peterroe?theme=rule34)
+
+</td><td width="600px"><br>
+
+```
+![img](https://count.getloli.com/get/@peterroe?theme=rule34)
+```
+
+</td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://komarev.com/ghpvc/?username=peterroe&&style=flat-square)
+
+</td><td width="600px"><br>
+
+```
+![img](https://komarev.com/ghpvc/?username=peterroe&&style=flat-square)
+```
+
+</td></tr>
+</table>
