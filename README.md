@@ -198,6 +198,45 @@ Hex color
 
 
 
+## Logos
+
+**Case:**
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> 
+  <img src="https://www.vectorlogo.zone/logos/haskell/haskell-ar21.svg"/> 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/> 
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"/> 
+  <img src="https://www.vectorlogo.zone/logos/bing/bing-ar21.svg"/> 
+</p>
+
+**Template:**
+
+`https://www.vectorlogo.zone/logos/${logoName}/{logoType}.svg`
+
+visit: https://www.vectorlogo.zone/
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg)
+
+</td><td width="600px"><br>
+
+```
+![img](https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg)
+```
+
+</td></tr>
+</table>
+
+
+
+
+
 ## Top language
 
 **Case:**
@@ -226,6 +265,8 @@ visit: https://github.com/anuraghazra/github-readme-stats
 
 </td></tr>
 </table>
+
+
 
 
 ## Stats
@@ -438,13 +479,14 @@ visit: https://skyline.github.com/
 <p>
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="200" align="left"/>
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="200" />  
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" width="200" />  
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="200" />  
   <img src="https://cdn.buymeacoffee.com/buttons/default-green.png" width="200" />  
 </p>
 
 **Template:**
 
 `https://cdn.buymeacoffee.com/buttons/default-${bgColor}.png`
+`https://cdn.buymeacoffee.com/buttons/v2/default-${bgColor}.png`
 
 <table>
 <tr><td width="400px">
