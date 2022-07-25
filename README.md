@@ -5,7 +5,7 @@
 - [Badge](#badge)
 - [Icons](#icons)
 - [Logos](#logos)
-- [emoji](#emoji)
+- [Emoji](#emoji)
 - [Top language](#top-language)
 - [Stats](#stats)
 - [Streak](#streak)
