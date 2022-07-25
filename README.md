@@ -5,6 +5,7 @@
 - [Badge](#badge)
 - [Icons](#icons)
 - [Logos](#logos)
+- [emoji](#emoji)
 - [Top language](#top-language)
 - [Stats](#stats)
 - [Streak](#streak)
@@ -252,6 +253,39 @@ Visit: https://www.vectorlogo.zone/
 
 </td></tr>
 </table>
+
+
+
+
+
+## Emoji
+
+**Case:**
+
+<p>
+  🤪 👻 🙊 🤴 🌶 ⏰ 🎁 ⚽ 🎲 📔
+</p>
+
+**Template:**
+
+Visit: https://www.emojiall.com/en/all-emojis
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+🌓 🎯 💻 📦 🗑 🚖 🔑 🏀 🌈
+
+</td><td width="600px"><br>
+
+```
+🌓 🎯 💻 📦 🗑 🚖 🔑 🏀 🌈
+```
+
+</td></tr>
+</table>
+
 
 
 
