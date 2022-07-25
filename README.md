@@ -1,4 +1,4 @@
-## Awesome README
+## Awesome profile
 
 > Gathering all the awesome things in README.md
 
@@ -33,6 +33,8 @@
 **Template:**
 
 `https://img.shields.io/badge/{name}-${bgColor}?style=${style}&logo=${logoName}&logoColor=${logoColor}&labelColor=${logoColor}`
+
+Visit: https://shields.io/
 
 <table>
 <tr><td width="400px">
@@ -128,6 +130,8 @@ All **effective value** are [here](https://simpleicons.org/)
 
 `https://cdn.jsdelivr.net/npm/simple-icons/icons/${logoName}.svg`
 
+Visit: https://github.com/simple-icons/simple-icons
+
 <table>
 <tr><td width="400px">
 
@@ -167,7 +171,7 @@ All **effective value** are [here](https://simpleicons.org/)
 
 **Template:**
 
-visit: https://icon-sets.iconify.design/
+Visit: https://icon-sets.iconify.design/
 
 `https://api.iconify.design/${name}.svg?color=%23${logoColor}`
 
@@ -231,7 +235,7 @@ Hex color
 
 `https://www.vectorlogo.zone/logos/${logoName}/{logoType}.svg`
 
-visit: https://www.vectorlogo.zone/
+Visit: https://www.vectorlogo.zone/
 
 <table>
 <tr><td width="400px">
@@ -264,7 +268,7 @@ visit: https://www.vectorlogo.zone/
 
 **Template:**
 
-visit: https://github.com/anuraghazra/github-readme-stats
+Visit: https://github.com/anuraghazra/github-readme-stats
 
 <table>
 <tr><td width="400px">
@@ -296,9 +300,9 @@ visit: https://github.com/anuraghazra/github-readme-stats
 
 **Template:**
 
-visit: https://github.com/anuraghazra/github-readme-stats
+Visit: https://github.com/anuraghazra/github-readme-stats
 
-visit: https://github.com/ryo-ma/github-profile-trophy
+Visit: https://github.com/ryo-ma/github-profile-trophy
 
 <table>
 <tr><td width="400px">
@@ -344,7 +348,7 @@ visit: https://github.com/ryo-ma/github-profile-trophy
 
 **Template:**
 
-visit: https://github.com/DenverCoder1/github-readme-streak-stats
+Visit: https://github.com/DenverCoder1/github-readme-streak-stats
 
 <table>
 <tr><td width="400px">
@@ -373,7 +377,7 @@ visit: https://github.com/DenverCoder1/github-readme-streak-stats
 
 **Template:**
 
-visit: https://github.com/Ashutosh00710/github-readme-activity-graph
+Visit: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 <table>
 <tr><td width="400px">
@@ -409,9 +413,9 @@ visit: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 **Template:**
 
-visit: https://count.getloli.com/
+Visit: https://count.getloli.com/
 
-visit: https://github.com/antonkomarev/github-profile-views-counter
+Visit: https://github.com/antonkomarev/github-profile-views-counter
 
 <table>
 <tr><td width="400px">
@@ -466,7 +470,7 @@ visit: https://github.com/antonkomarev/github-profile-views-counter
 
 **Template:**
 
-visit: https://skyline.github.com/
+Visit: https://skyline.github.com/
 
 <table>
 <tr><td width="400px">
@@ -502,7 +506,7 @@ visit: https://skyline.github.com/
 
 `https://github-readme-stackoverflow.vercel.app/?userID=${userId}&theme=${theme}&layout={layout}`
 
-visit: https://github.com/omidnikrah/github-readme-stackoverflow
+Visit: https://github.com/omidnikrah/github-readme-stackoverflow
 
 <table>
 <tr><td width="400px">
@@ -571,19 +575,19 @@ visit: https://github.com/ABSphreak/readme-jokes
 
 `http://readme-typing-svg.herokuapp.com/?lines=${xx}+${xx}+...`
 
-visit: https://readme-typing-svg.herokuapp.com/demo/
+Visit: https://readme-typing-svg.herokuapp.com/demo/
 
 <table>
 <tr><td width="400px">
 
 ### Demo
   
-<img src="http://readme-typing-svg.herokuapp.com/?lines=Hello+awesome+profile"/>
+<img src="http://readme-typing-svg.herokuapp.com/?lines=Awesome+profile"/>
 
 </td><td width="600px"><br>
 
 ```
-<img src="http://readme-typing-svg.herokuapp.com/?lines=Hello+awesome+profile"/>
+<img src="http://readme-typing-svg.herokuapp.com/?lines=Awesome+profile"/>
 ```
 
 </td></tr>
@@ -605,7 +609,7 @@ visit: https://readme-typing-svg.herokuapp.com/demo/
 
 `https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=${username}&repo={reponame}&theme=${theme}`
 
-visit: https://github.com/anuraghazra/github-readme-stats
+Visit: https://github.com/anuraghazra/github-readme-stats
 
 <table>
 <tr><td width="400px">
@@ -642,7 +646,7 @@ visit: https://github.com/anuraghazra/github-readme-stats
 
 **Template:**
 
-visit: https://octodex.github.com/
+Visit: https://octodex.github.com/
 
 <table>
 <tr><td width="400px">
