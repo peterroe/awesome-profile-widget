@@ -646,6 +646,8 @@ Visit: https://github.com/anuraghazra/github-readme-stats
 
 **Template:**
 
+`https://octodex.github.com/images/${name}.png`
+
 Visit: https://octodex.github.com/
 
 <table>
