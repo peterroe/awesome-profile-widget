@@ -472,6 +472,183 @@ visit: https://skyline.github.com/
 
 
 
+## Stark Overflow
+
+**Case:**
+
+<p>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=19174750&theme=dark" align="left"/>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=19174750"/>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=19174750&theme=dark&layout=compact"/>
+</p>
+
+**Template:**
+
+`https://github-readme-stackoverflow.vercel.app/?userID=${userId}&theme=${theme}&layout={layout}`
+
+visit: https://github.com/omidnikrah/github-readme-stackoverflow
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-readme-stackoverflow.vercel.app/?userID=19174750&theme=dark)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-readme-stackoverflow.vercel.app/?userID=19174750&theme=dark)
+```
+
+</td></tr>
+</table>
+
+
+
+
+
+## Random Joke
+
+**Case:**
+
+<p>
+  <img src="https://readme-jokes.vercel.app/api?q=4" align="left"/>
+  <img src="https://readme-jokes.vercel.app/api?bgColor=white&q=3"/>
+</p>
+
+**Template:**
+
+visit: https://github.com/ABSphreak/readme-jokes
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://readme-jokes.vercel.app/api)
+
+</td><td width="600px"><br>
+
+```
+![img](https://readme-jokes.vercel.app/api)
+```
+
+</td></tr>
+</table>
+
+
+
+
+
+## Typing
+
+**Case:**
+
+<p>
+  <img src="http://readme-typing-svg.herokuapp.com/?lines=This+is+readme+typing+svg&color=234234" />
+  <img src="http://readme-typing-svg.herokuapp.com/?lines=You+can+write+anything+here&color=ab34ca" />
+  <img src="http://readme-typing-svg.herokuapp.com/?lines=Hello+world&color=12396b" />
+</p>
+
+**Template:**
+
+`http://readme-typing-svg.herokuapp.com/?lines=${xx}+${xx}+...`
+
+visit: https://readme-typing-svg.herokuapp.com/demo/
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+<img src="http://readme-typing-svg.herokuapp.com/?lines=Hello+awesome+profile"/>
+
+</td><td width="600px"><br>
+
+```
+<img src="http://readme-typing-svg.herokuapp.com/?lines=Hello+awesome+profile"/>
+```
+
+</td></tr>
+</table>
+
+
+
+
+## Repos
+
+**Case:**
+
+<p>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=peterroe&repo=renames&theme=onedark" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=peterroe&repo=Rss-reader" />
+</p>
+
+**Template:**
+
+`https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=${username}&repo={reponame}&theme=${theme}`
+
+visit: https://github.com/anuraghazra/github-readme-stats
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ungeui&repo=ungeui"/>
+
+</td><td width="600px"><br>
+
+```
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ungeui&repo=ungeui"/>
+```
+
+</td></tr>
+</table>
+
+
+
+
+
+
+## Octodex
+
+**Case:**
+
+<p>
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="left" width="100"/>
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="100"/>
+  <img src="https://octodex.github.com/images/plumber.jpg" width="100"/>
+  <img src="https://octodex.github.com/images/murakamicat.png" width="100"/>
+  <img src="https://octodex.github.com/images/oktobercat.png" width="100"/>
+</p>
+
+**Template:**
+
+visit: https://octodex.github.com/
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+<img src="https://octodex.github.com/images/electrocat.png" width="200"/>
+
+</td><td width="600px"><br>
+
+```
+<img src="https://octodex.github.com/images/electrocat.png" width="200"/>
+```
+
+</td></tr>
+</table>
+
+
+
+
+
+
 ## Support
 
 **Case:**
