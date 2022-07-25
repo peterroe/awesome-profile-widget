@@ -1,4 +1,4 @@
-## Awesome profile
+## Awesome profile widget
 
 > Gathering all the awesome things in README.md
 
