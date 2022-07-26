@@ -298,11 +298,15 @@ Visit: https://www.emojiall.com/en/all-emojis
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true&theme=synthwave" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterroe&layout=compact&hide_title=true&theme=highcontrast"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peterroe"/>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peterroe"/>  
 </p>
 
 **Template:**
 
 Visit: https://github.com/anuraghazra/github-readme-stats
+
+Visit: https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 <table>
 <tr><td width="400px">
@@ -318,6 +322,20 @@ Visit: https://github.com/anuraghazra/github-readme-stats
 ```
 
 </td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peterroe&theme=solarized_dark)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-profile-summary-cards.vercel.app/api/cards
+/most-commit-language?username=peterroe&theme=solarized_dark)
+```
+
+</td></tr>
 </table>
 
 
@@ -330,6 +348,7 @@ Visit: https://github.com/anuraghazra/github-readme-stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=peterroe&count_private=true&show_icons=true&hide_title=true&theme=gruvbox"/>
   <img src="https://github-profile-trophy.vercel.app/?username=peterroe" alt="peterroe" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peterroe" alt="peterroe" />
 </p>
 
 **Template:**
@@ -362,6 +381,20 @@ Visit: https://github.com/ryo-ma/github-profile-trophy
 
 ```
 ![img](https://github-profile-trophy.vercel.app/?username=peterroe)
+```
+
+</td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peterroe&theme=solarized)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-profile-summary-cards.vercel.app/api/cards/stats
+?username=peterroe&theme=solarized)
 ```
 
 </td></tr>
@@ -406,12 +439,16 @@ Visit: https://github.com/DenverCoder1/github-readme-streak-stats
 **Case:**
 
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=peterroe&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=peterroe&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="left"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterroe&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peterroe&theme=solarized" />
 </p>
 
 **Template:**
 
 Visit: https://github.com/Ashutosh00710/github-readme-activity-graph
+
+Visit: https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 <table>
 <tr><td width="400px">
@@ -424,6 +461,34 @@ Visit: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 ```
 ![img](https://activity-graph.herokuapp.com/graph?username=peterroe&theme=github)
+```
+
+</td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterroe&theme=monokai)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-profile-summary-cards.vercel.app/api/cards/profile-details
+?username=peterroe&theme=monokai)
+```
+
+</td></tr>
+<tr><td width="400px">
+
+### Demo
+  
+![img](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peterroe)
+
+</td><td width="600px"><br>
+
+```
+![img](https://github-profile-summary-cards.vercel.app/api/cards
+/productive-time?username=peterroe)
 ```
 
 </td></tr>
@@ -621,7 +686,8 @@ Visit: https://readme-typing-svg.herokuapp.com/demo/
 </td><td width="600px"><br>
 
 ```
-<img src="http://readme-typing-svg.herokuapp.com/?lines=Awesome+profile"/>
+<img src="http://readme-typing-svg.herokuapp.com/
+?lines=Awesome+profile"/>
 ```
 
 </td></tr>
@@ -655,7 +721,8 @@ Visit: https://github.com/anuraghazra/github-readme-stats
 </td><td width="600px"><br>
 
 ```
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=ungeui&repo=ungeui"/>
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/
+?username=ungeui&repo=ungeui"/>
 ```
 
 </td></tr>
