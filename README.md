@@ -18,6 +18,7 @@
 - [Repos](#repos)
 - [Octodex](#octodex)
 - [Support](#support)
+- [Contributor](#contributor)
 
 ## Badge
 
@@ -811,6 +812,39 @@ bgColor
 </td><td width="600px"><br>
 
 `red`, `green` and other text colors are available.
+
+</td></tr>
+</table>
+
+
+
+
+## Contributor
+
+**Case:**
+
+![img](https://contrib.rocks/image?repo=hnustwjj/react-starport)
+
+<br>
+
+![img](https://contrib.rocks/image?repo=peterroe/vue-component-starter)
+
+**Template:**
+
+`https://contrib.rocks/image?repo=${username}/${reponame}`
+
+<table>
+<tr><td width="400px">
+
+### Demo
+  
+<img src="https://contrib.rocks/image?repo=peterroe/awesome-profile-widget"/>
+
+</td><td width="600px"><br>
+
+```
+<img src="https://contrib.rocks/image?repo=peterroe/awesome-profile-widget"/>
+```
 
 </td></tr>
 </table>
