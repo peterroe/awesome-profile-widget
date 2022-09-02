@@ -782,12 +782,15 @@ Visit: https://octodex.github.com/
   <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="200" />  
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="200" />  
   <img src="https://cdn.buymeacoffee.com/buttons/default-green.png" width="200" />  
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" />  
 </p>
 
 **Template:**
 
+`https://cdn.ko-fi.com/cdn/kofi3.png`
 `https://cdn.buymeacoffee.com/buttons/default-${bgColor}.png`
 `https://cdn.buymeacoffee.com/buttons/v2/default-${bgColor}.png`
+`https://ko-fi.com/img/githubbutton_sm.svg`
 
 <table>
 <tr><td width="400px">
