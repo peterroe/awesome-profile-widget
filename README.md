@@ -788,8 +788,11 @@ Visit: https://octodex.github.com/
 **Template:**
 
 `https://cdn.ko-fi.com/cdn/kofi3.png`
+
 `https://cdn.buymeacoffee.com/buttons/default-${bgColor}.png`
+
 `https://cdn.buymeacoffee.com/buttons/v2/default-${bgColor}.png`
+
 `https://ko-fi.com/img/githubbutton_sm.svg`
 
 <table>
